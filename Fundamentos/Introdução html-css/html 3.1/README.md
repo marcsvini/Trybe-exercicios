@@ -1,0 +1,1 @@
+Neste exercicio aprendemos algumas tags HTML e iniciamos nossos primeiros passos nessa linguagem de estilização
