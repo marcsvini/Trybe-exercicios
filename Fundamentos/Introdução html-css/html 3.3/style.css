@@ -1,0 +1,16 @@
+.paragrafo {
+    width: 80%;
+    background-color: aquamarine;
+    border-radius: 15px;
+    padding: 1px;
+    height: 210px;
+
+}
+
+.lista {
+    background-color: aqua;
+    width: 80%;
+    padding: 1px;
+    border-color: black;
+    border-radius: 15px;
+}
